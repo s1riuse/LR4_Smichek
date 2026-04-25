@@ -11,9 +11,9 @@ limits = {"rate_limit": 3, "time_window_sec": 10, "disk_threshold_percent": 90}
 event_log = [
     {
         "timestamp": "2026-04-16T10:00:00",
-        "user_id": "иван",
+        "user_id": "ваня",
         "action": "доступ разрешен",
-        "reason": "-",
+        "reason": "",
     },
     {
         "timestamp": "2026-04-16T10:00:05",
